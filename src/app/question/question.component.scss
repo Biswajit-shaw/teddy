@@ -1,0 +1,131 @@
+.full {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+}
+
+.GIF {
+    width: 300px;
+    height: auto;
+}
+
+.center {
+
+    margin-top: -8%;
+    text-align: center;
+}
+
+.button {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    margin-top: 20px;
+    padding-left: 20%;
+}
+
+button {
+    justify-content: center;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.yes {
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no {
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no1 {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no3 {
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no5 {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no7 {
+    position: absolute;
+    top: 30%;
+    right: 20%;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no2 {
+    position: absolute;
+    top: 55%;
+    left: 10%;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no6 {
+    position: absolute;
+    top: 55%;
+    right: 10%;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no4 {
+    position: absolute;
+    bottom: 5%;
+    left: 15%;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.no8 {
+    position: absolute;
+    bottom: 5%;
+    right: 15%;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}

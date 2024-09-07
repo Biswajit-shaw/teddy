@@ -1,0 +1,36 @@
+.full {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+}
+
+.GIF {
+    width: 300px;
+    height: auto;
+}
+
+.center {
+    margin-top: -8%;
+    text-align: center;
+}
+
+.button {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    margin-top: 20px;
+    padding-left: 20%;
+}
+
+button {
+    justify-content: center;
+    padding: 10px 20px;
+    font-size: 16px;
+}
